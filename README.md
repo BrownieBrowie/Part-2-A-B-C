@@ -1,1 +1,1 @@
-# Part-2-A-B-C
+# Part-2 of our classes project.
